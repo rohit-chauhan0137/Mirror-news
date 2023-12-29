@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Woman In China Dies 3 Weeks After Catching Rare H5N6 Strain of Bird Flu - NDTV",
+            "description": "In about 10 years, 88 cases of H5N6 have been reported from across the world. Of those, 87 were in mainland China.",
+            "url": "https://www.ndtv.com/world-news/woman-in-china-dies-3-weeks-after-catching-rare-h5n6-strain-of-bird-flu-4757602",
+            "urlToImage": "https://c.ndtvimg.com/2021-01/uitchfl8_bird-flu_625x300_08_January_21.jpg",
+            "publishedAt": "2023-12-28T10:31:54Z",
+            "content": "The woman caught the bird flu strain from a poultry market.\r\nA 33-year-old woman has died three weeks after testing positive for H5N6 strain of bird flu in China, according to Metro. She caught the r… [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "What we know about the new Covid variant JN.1 | In Focus podcast - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/podcast/what-we-know-about-the-new-covid-variant-jn1/article67682986.ece",
+            "urlToImage": null,
+            "publishedAt": "2023-12-28T10:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Vaibhav Tiwari",
+            "title": "Sentences of 8 ex-Navy men on death row in Qatar reduced: MEA - Hindustan Times",
+            "description": "MEA said the court of appeals in Doha reduced their sentences.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/sentences-of-8-ex-navy-men-on-death-row-in-qatar-reduced-mea-101703757878543.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/28/1600x900/The-convict-is-identified-as-Tajinder-Sachdeva--a-_1703758189380_1703758198689.jpg",
+            "publishedAt": "2023-12-28T10:04:56Z",
+            "content": "New Delhi: The Ministry of External Affairs said on Thursday that the sentences of eight former Indian Navy personnel -- who are on death row in Qatar -- have been reduced.\r\nCourt generic(HT )\r\nIn a … [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Yordan",
+            "title": "OnePlus Ace 3's flagship-tier OLED display teased - GSMArena.com news - GSMArena.com",
+            "description": "It is the same 8T LPTO OLED from the OnePlus 12. OnePlus will introduce Ace 3 in China next week, and we finally know more details about the smartphone....",
+            "url": "https://www.gsmarena.com/oneplus_ace_3_to_have_a_flagshiptier_oled_display-news-61043.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/12/oneplus-ace-3-display/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2023-12-28T09:00:01Z",
+            "content": "OnePlus will introduce Ace 3 in China next week, and we finally know more details about the smartphone. The brand shared the display specs, revealing it will be the very same top-tier OLED panel used… [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ndtvprofit.com"
+            },
+            "author": "Aditi Shah",
+            "title": "ISRO Set To Launch XPoSat On January 1; Know All About Indias First X-Ray Polarimeter Satellite - NDTV Profit",
+            "description": "The mission is important as it will provide groundbreaking information to enhance the understanding of the astronomical realm.",
+            "url": "https://www.ndtvprofit.com/nation/isro-set-to-launch-xposat-on-january-1-know-all-about-indias-first-x-ray-polarimeter-satellite-npc",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2023-12%2F90664df1-a4d3-458f-a4df-2d28a6702456%2FXsoPat.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2023-12-28T08:59:40Z",
+            "content": "The Indian Space Research Organisation (ISRO) is likely to launch its X-ray Polarimeter Satellite (XPoSat) mission on January 1. According to ISRO, this is India's first dedicated polarimeter mission… [+550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "IANS",
+            "title": "New Android malware infects 330K devices via malicious apps on Google Play - Investing.com India",
+            "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+            "url": "https://in.investing.com/news/new-android-malware-infects-330k-devices-via-malicious-apps-on-google-play-3952489",
+            "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/cb92fdb333133c5a9a9c97aca8ae0004_w_800_h_450.jpg",
+            "publishedAt": "2023-12-28T08:49:04Z",
+            "content": "New Delhi, Dec 28 (IANS) Researchers have identified an Android backdoor named 'Xamalicious', which has infected approximately 338,300 devices via malicious apps on Google (NASDAQ:\r\nGOOGL\r\n) Play.Com… [+1748 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Hezbollah launches intense rocket barrage on northern Israel, targets Israeli naval base - Times of India",
+            "description": "The Islamic resistance group, Hezbollah, unleashed a barrage of rockets targeting Israel, with at least 18 rockets hitting the towns of Rosh Hanikra and Kiryat Shmona in northern Israel. The coastal town of Rosh Hanikra, where an Israeli Navy base is",
+            "url": "https://timesofindia.indiatimes.com/videos/international/hezbollah-launches-intense-rocket-barrage-on-northern-israel-targets-israeli-naval-base/videoshow/106346885.cms",
+            "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-106346885,imgsize-24754.cms",
+            "publishedAt": "2023-12-28T08:46:29Z",
+            "content": "Dec 28, 2023, 02:16PM ISTSource: TOI.inThe Islamic resistance group, Hezbollah, unleashed a barrage of rockets targeting Israel, with at least 18 rockets hitting the towns of Rosh Hanikra and Kiryat … [+416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "India vs South Africa Live Updates, 1st Test, Day 3: Dean Elgar Hits 150 As 5-Down SA Cruise vs India - NDTV Sports",
+            "description": "IND vs SA Live Score, 1st Test, Day 3: South Africa are five wickets down against India in Centurion.",
+            "url": "https://sports.ndtv.com/south-africa-vs-india-2023-24/live-cricket-score-ind-vs-sa-1st-test-day-3-match-cricket-match-today-india-vs-south-africa-match-live-updates-4756136",
+            "urlToImage": "https://c.ndtvimg.com/2023-12/2p168tb8_team-india-afp_625x300_27_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2023-12-28T08:31:02Z",
+            "content": "IND vs SA Live Score, 1st Test, Day 3: India's search for a wicket goes on with Dean Elgar and Marco Jansen going strongly after the start of play on Day 3. Elgar is eyeind a double century while Jan… [+522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "IANS",
+            "title": "Japan's SLIM lander shares 1st Moon images from lunar orbit - Investing.com India",
+            "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+            "url": "https://in.investing.com/news/japans-slim-lander-shares-1st-moon-images-from-lunar-orbit-3952466",
+            "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/0fca5a3ca3ce8b026f6d5f482ab18d56_w_800_h_450.jpg",
+            "publishedAt": "2023-12-28T08:21:34Z",
+            "content": "Tokyo, Dec 28 (IANS) Japan Aerospace Exploration Agency's (JAXA) Smart Lander for Investigating Moon (SLIM) moon lander has shared first images of the lunar surface from the Moon's orbit.\r\nThe 2.7 me… [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Salaar worldwide box office collection day 6: Prabhas' film enters ₹500 cr club - Hindustan Times",
+            "description": "Salaar worldwide box office collection day 6: Salaar marks the biggest collaboration between Prashanth Neel and Prabhas.",
+            "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/salaar-part-1-ceasefire-worldwide-box-office-collection-day-6-prabhas-film-enters-500-crore-club-101703747626160.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/28/1600x900/Salaar_stills_1703240689541_1703748515933.jpg",
+            "publishedAt": "2023-12-28T08:04:06Z",
+            "content": "Salaar: Part 1- Ceasefire worldwide box office collection day 6: Directed by Prashanth Neel, the film hit theatres on December 22 in Telugu, Kannada, Tamil, Malayalam and Hindi. The official handle o… [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Bus Owned By BJP Leader's Brother With Expired Papers Crashes, Kills 13 - NDTV",
+            "description": "Thirteen people have died, and 18 were injured, after a privately-owned bus burst into flames after it collided with a truck in Madhya Pradesh's Guna last night.",
+            "url": "https://www.ndtv.com/india-news/madhya-pradesh-guna-bus-accident-bus-that-crashed-killing-13-had-expired-documents-owned-by-bjp-leader-4756768",
+            "urlToImage": "https://c.ndtvimg.com/2023-12/m97824mo_madhya-pradesh-guna-bus-accident_625x300_28_December_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231203.06",
+            "publishedAt": "2023-12-28T07:54:51Z",
+            "content": "The bus and truck collided last night in-between Guna and Aron in Madhya Pradesh.\r\nBhopal: Thirteen people have died, and 18 were injured, after a privately-owned bus burst into flames after it colli… [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Siddhant Mishra",
+            "title": "Umatched Architecture, Facilities, Sustainability: News18 Brings You In-depth Details of Ram Temple Complex - News18",
+            "description": "The overall area spanning 71 acres will include the Ram Mandir, covering 2.77 acres and divided into six parts, including the sanctum sanctorum and five pavilions",
+            "url": "https://www.news18.com/india/umatched-architecture-facilities-sustainability-news18-brings-you-in-depth-details-of-ram-temple-complex-8719701.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/untitled-design-6-2023-12-fd61c359831e58efab16497636bd7049-16x9.jpg?impolicy=website&width=1200&height=675",
+            "publishedAt": "2023-12-28T07:52:00Z",
+            "content": "With preparations in full swing for the consecration of Lord Rams idol in Ayodhya on January 22, 2024, News18 brings you exclusive inside details of the under-construction grand temple and Shri Ram J… [+4338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Science Desk",
+            "title": "Kilonova explosions from neutron star collisions could explain how Earth got gold - The Indian Express",
+            "description": "Scientists have developed a new method to model the signs of neutron stars colliding, which can create heavy elements like gold.",
+            "url": "https://indianexpress.com/article/technology/science/neutron-star-collisions-earth-gold-9086046/",
+            "urlToImage": "https://images.indianexpress.com/2023/12/Neutron-star-mergers-20231228.jpg",
+            "publishedAt": "2023-12-28T07:36:55Z",
+            "content": "An international team of researchers have developed a method to model the observable signs of a kilonova explosion from the explosive merger of two orbiting neutron stars. This could help them descri… [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "Shashi Tharoor says he would love to visit Ram Temple one day but not before elections - Hindustan Times",
+            "description": "Tharoor said every politician should be free to decide whether they would skip Ram Temple event and be called anti-Hindu or attend and play into BJP's hands. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/shashi-tharoor-says-he-would-love-to-visit-ram-temple-one-day-but-not-before-elections-101703747261925.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/28/1600x900/ANI-20231223166-0_1703747355103_1703747653932.jpg",
+            "publishedAt": "2023-12-28T07:30:18Z",
+            "content": "Amid intense politicking over attending the grand Ram Mandir inauguration on January 22, Congress MP Shashi Tharoor on Thursday clarified that he would love to visit the Ram temple one day but not on… [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Divya Bhati",
+            "title": "Poco to launch X6 Series with MediaTek Dimensity 8300 Ultra SoC in India soon, details here - India Today",
+            "description": "Poco is set to launch its X6 Series, powered by MediaTek Dimensity 8300 Ultra SoC, in India. The new lineup is rumoured to have two variants--Poco X6 and X6 Pro.",
+            "url": "https://www.indiatoday.in/technology/news/story/poco-to-launch-x6-series-with-mediatek-dimensity-8300-ultra-soc-in-india-soon-details-here-2481410-2023-12-28",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/redmi-k70e-282823297-16x9_0.jpg?VersionId=vSo4gdOH12z1ekuV7gC2OSXBzOyZf7A3",
+            "publishedAt": "2023-12-28T07:07:47Z",
+            "content": "Poco has recently confirmed the launch of another smartphone lineup in India, which, according to the company, will be India's first smartphone powered by the MediaTek Dimensity 8300 Ultra. The new l… [+3150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Ratan Tata Turns 86: 10 Interesting Facts On India's 'Most-Followed' Industrialist - NDTV",
+            "description": "Ratan Tata, one of India's most respected businessmen, turned 86 today. The Tata Sons Chairman is known not just for his contributions to the business world, but also his philanthropic activities.",
+            "url": "https://www.ndtv.com/india-news/ratan-tata-turns-86-10-interesting-facts-on-indias-most-followed-industrialist-4756404",
+            "urlToImage": "https://c.ndtvimg.com/2023-12/ehrhv6nk_ratan-tata_625x300_28_December_23.jpeg?ver-20231203.06",
+            "publishedAt": "2023-12-28T06:42:17Z",
+            "content": "<li>Ratan Naval Tata is the great-grandson of Jamsetji Tata who founded the Tata Group. He was born on December 28, 1937, in Mumbai to Naval Tata and Sooni Tata.\r\n</li><li>He was raised by his grandm… [+1634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "In A First, Priyanka Gandhi Vadra Named In Probe Agency Chargesheet - NDTV",
+            "description": "Congress leader Priyanka Gandhi Vadra has been named in an Enforcement Directorate chargesheet - for the first time - over the alleged purchase and sale of five acres of land in Haryana.",
+            "url": "https://www.ndtv.com/india-news/priyanka-gandhi-vadra-ed-chargesheet-priyanka-gandhi-vadra-in-probe-agency-chargesheet-over-purchase-sale-of-land-4756364",
+            "urlToImage": "https://c.ndtvimg.com/2023-11/u44s1ef8_priyanka-gandhi_625x300_07_November_23.jpg",
+            "publishedAt": "2023-12-28T06:37:17Z",
+            "content": "There is speculation Congress leader Priyanka Gandhi could contest the 2024 Lok Sabha election (File).\r\nNew Delhi: Congress leader Priyanka Gandhi Vadra has been named in an Enforcement Directorate c… [+4580 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Ranbir Kapoor's viral 'Jai Mata Di' video: Complaint filed against 'Animal' actor for allegedly 'hurting religious sentiments' in viral Christmas lunch video - Times of India",
+            "description": "A complaint was reportedly filed at a Mumbai police station against Ranbir Kapoor for allegedly hurting religious sentiments in a viral video of him celebrating Christmas with his family. In the video, the Kapoor family was seen pouring liquor on a cake befor…",
+            "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/ranbir-kapoors-viral-jai-mata-di-video-complaint-filed-against-animal-actor-for-allegedly-hurting-religious-sentiments-in-viral-christmas-lunch-video/videoshow/106340235.cms",
+            "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-106340235,imgsize-48220.cms",
+            "publishedAt": "2023-12-28T05:45:22Z",
+            "content": "Dec 28, 2023, 11:23AM ISTSource: etimes.inA complaint was reportedly filed at a Mumbai police station against Ranbir Kapoor for allegedly hurting religious sentiments in a viral video of him celebrat… [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Covid update: 109 JN.1 cases in India, Karnataka home isolation mandate. Check state advisories, symptoms, and more | Mint - Mint",
+            "description": "Covid update: Gurugram has detected two more cases of the JN.1 variant, prompting the district magistrate to order hospitals to set up isolation wards.",
+            "url": "https://www.livemint.com/news/india/covid-update-109-jn-1-cases-in-india-karnataka-home-isolation-mandate-check-state-advisories-symptoms-and-more-11703726979130.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/28/1600x900/covid_1703733404797_1703733404985.jpg",
+            "publishedAt": "2023-12-28T05:44:08Z",
+            "content": "With COVID-19 turning its head again, several states have urged people to follow coronavirus protocols. As of 26 December, the India has reported a total of 109 JN.1 COVID variant cases in the countr… [+6773 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Bollyood's Rs 300 crore club of 2023 - IndiaTimes",
+            "description": "​Bollyood's Rs 300 crore club of 2023​",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bollyoods-rs-300-crore-club-of-2023/photostory/106339360.cms",
+            "urlToImage": "https://static.toiimg.com/photo/106339387.cms",
+            "publishedAt": "2023-12-28T05:14:47Z",
+            "content": null
+        }
+    ]
+}

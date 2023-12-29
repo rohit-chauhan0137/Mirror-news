@@ -1,0 +1,30 @@
+.navBar{
+    display: flex;
+    background-color: lightcoral;
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+
+    a:hover{
+        color: #fff;
+      }
+  }
+  a{
+    color: #CBBCE2;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  
+  .home{
+    margin-left: 20px;
+  }
+  
+  .technology{
+   margin-left: 20px;
+  }
+  
+  .cart{
+   margin-left: 20px;
+  }
